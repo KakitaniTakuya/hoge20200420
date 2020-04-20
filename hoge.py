@@ -4,3 +4,4 @@ print("ほげほげー")
 
 x='hoge'
 print(x)
+print("aaa")
